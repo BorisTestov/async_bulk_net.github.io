@@ -1,3 +1,10 @@
 <map id="src/main.cpp" name="src/main.cpp">
-<area shape="rect" id="node2" href="$version_8h.html" title="version.h" alt="" coords="39,80,121,107"/>
+<area shape="rect" id="node2" href="$server_8h.html" title="server.h" alt="" coords="647,80,722,107"/>
+<area shape="rect" id="node3" href="$session_8h.html" title="session.h" alt="" coords="606,155,689,181"/>
+<area shape="rect" id="node16" href="$stream_8h.html" title="stream.h" alt="" coords="479,229,559,256"/>
+<area shape="rect" id="node21" href="$version_8h.html" title="version.h" alt="" coords="74,379,157,405"/>
+<area shape="rect" id="node4" href="$block__processor_8h.html" title="block_processor.h" alt="" coords="679,304,818,331"/>
+<area shape="rect" id="node15" href="$command__processor_8h.html" title="command_processor.h" alt="" coords="437,304,605,331"/>
+<area shape="rect" id="node5" href="$command__container_8h.html" title="command_container.h" alt="" coords="333,379,500,405"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="observer.h" alt="" coords="575,379,666,405"/>
 </map>

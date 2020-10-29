@@ -1,0 +1,9 @@
+<map id="src/server.cpp" name="src/server.cpp">
+<area shape="rect" id="node2" href="$server_8h.html" title="server.h" alt="" coords="776,80,851,107"/>
+<area shape="rect" id="node3" href="$session_8h.html" title="session.h" alt="" coords="699,155,781,181"/>
+<area shape="rect" id="node16" href="$stream_8h.html" title="stream.h" alt="" coords="421,229,501,256"/>
+<area shape="rect" id="node4" href="$block__processor_8h.html" title="block_processor.h" alt="" coords="445,304,584,331"/>
+<area shape="rect" id="node15" href="$command__processor_8h.html" title="command_processor.h" alt="" coords="641,304,809,331"/>
+<area shape="rect" id="node5" href="$command__container_8h.html" title="command_container.h" alt="" coords="523,379,690,405"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="observer.h" alt="" coords="307,379,397,405"/>
+</map>

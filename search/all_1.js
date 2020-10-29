@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['project_5fversion_5fmajor',['PROJECT_VERSION_MAJOR',['../version_8h.html#abecd2198575b690d25a741857f8390d1',1,'version.h']]],
-  ['project_5fversion_5fminor',['PROJECT_VERSION_MINOR',['../version_8h.html#a43e23009192a3e216fefec17750d8673',1,'version.h']]],
-  ['project_5fversion_5fpatch',['PROJECT_VERSION_PATCH',['../version_8h.html#a4a5fc96a4bdd7d68ed99ccce9ca2e77e',1,'version.h']]]
+  ['block_5fprocessor_2ecpp',['block_processor.cpp',['../block__processor_8cpp.html',1,'']]],
+  ['block_5fprocessor_2eh',['block_processor.h',['../block__processor_8h.html',1,'']]],
+  ['blockfinish',['blockFinish',['../classObserver.html#a0de4327ddccfda5480507d397053c57b',1,'Observer']]],
+  ['blockprocessor',['BlockProcessor',['../classBlockProcessor.html',1,'BlockProcessor'],['../classBlockProcessor.html#a6155fe270c4120e5b25fb6df49e666fa',1,'BlockProcessor::BlockProcessor()']]],
+  ['blockstart',['blockStart',['../classObserver.html#afc413041ac46eb5e027d2cabfa632f19',1,'Observer']]]
 ];
